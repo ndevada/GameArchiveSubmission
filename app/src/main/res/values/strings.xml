@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">GameArchiveSubmission</string>
+    <string name="title">Game Archive</string>
+    <string name="desc">Desc</string>
+    <string name="score">60/100</string>
+    <string name="release_date">release date</string>
+    <string name="genre">Genre</string>
+    <string name="genre_detail">Genre</string>
+    <string name="release_date_detail">Release Date</string>
+    <string name="publisher">Publisher</string>
+    <string name="developer_detail">Developer</string>
+    <string name="title_detail">Title</string>
+    <string name="detail_detail">Detail</string>
+    <string name="alternative_names">Alternative names</string>
+    <string name="platforms">Platforms</string>
+    <string name="game_mode">Game Mode</string>
+</resources>
