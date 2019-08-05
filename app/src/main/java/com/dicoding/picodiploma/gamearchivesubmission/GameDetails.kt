@@ -3,6 +3,7 @@ package com.dicoding.picodiploma.gamearchivesubmission
 import android.content.Context
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import android.widget.Toolbar
 import com.bumptech.glide.Glide
 import com.bumptech.glide.request.RequestOptions
 import kotlinx.android.synthetic.main.activity_game_details.*
@@ -13,8 +14,10 @@ class GameDetails : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_game_details)
 
+//        setSupportActionBar(findViewById(R.id.custom_toolbar))
+
         val img = intent.getStringExtra(EXTRA_IMG)
-        val imgDetail = intent.getStringExtra(EXTRA_IMG_DETAIL)
+//        val imgDetail = intent.getStringExtra(EXTRA_IMG_DETAIL)
         val title = intent.getStringExtra(EXTRA_TITLE)
         val genre = intent.getStringExtra(EXTRA_GENRE)
         val releaseDate = intent.getStringExtra(EXTRA_DATE)

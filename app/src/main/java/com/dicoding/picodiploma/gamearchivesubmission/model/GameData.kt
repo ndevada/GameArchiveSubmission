@@ -26,7 +26,7 @@ object GameData {
             "Shadows Die Twice",
             "Single player",
             "https://images.igdb.com/igdb/image/upload/t_cover_big/co1hl9.jpg",
-            "Set sail on an all-new ONE PIECE adventure in ONE PIECE World Seeker! Luffy and the Straw Hat Pirates are back in a new story that puts players’ into Luffy’s point of view, as he battles and explores an expansive and seamless world. Open landscapes provide many paths for players to experience Luffy’s gum-gum abilities and swing into action."
+            "Explore late 1500s Sengoku Japan, a brutal period of constant life and death conflict, as you come face to face with larger than life foes in a dark and twisted world. Unleash an arsenal of deadly prosthetic tools and powerful ninja abilities while you blend stealth, vertical traversal, and visceral head to head combat in a bloody confrontation."
         ),
         arrayOf(
             "Diesel Brothers: The Game",
@@ -39,7 +39,7 @@ object GameData {
             "-",
             "Single player, Multiplayer",
             "https://images.igdb.com/igdb/image/upload/t_cover_big/co1hl9.jpg",
-            "Set sail on an all-new ONE PIECE adventure in ONE PIECE World Seeker! Luffy and the Straw Hat Pirates are back in a new story that puts players’ into Luffy’s point of view, as he battles and explores an expansive and seamless world. Open landscapes provide many paths for players to experience Luffy’s gum-gum abilities and swing into action."
+            "Meet your friends in the World of Diesel! Grab some of the biggest four-wheelers. Trick these trucks, flip them for a profit or give them away! This Can Go Hard Or This Can Go Diesel."
         ),
         arrayOf(
             "Sakuna: Of Rice and Ruin",
@@ -52,7 +52,7 @@ object GameData {
             "-",
             "Single player",
             "https://images.igdb.com/igdb/image/upload/t_cover_big/co1hl9.jpg",
-            "Set sail on an all-new ONE PIECE adventure in ONE PIECE World Seeker! Luffy and the Straw Hat Pirates are back in a new story that puts players’ into Luffy’s point of view, as he battles and explores an expansive and seamless world. Open landscapes provide many paths for players to experience Luffy’s gum-gum abilities and swing into action."
+            "in Sakuna: Of Rice and Ruin, players take on the role of Sakuna, a proud yet lonely harvest goddess who is banished to a dangerous island with a group of outcast humans. Sakuna tames the island by defeating demons using farm tools as weapons while also making ample use of her “celestial scarf,” a magical item that allows her to grapple distant enemies and platforms. Along the way, she establishes a home in a mountain village, which serves as a base of operations for crafting weapons and cooking food. Additionally, as a harvest goddess, she grows rice by following a detailed process that encompasses everything from planting to harvesting. Through this process, across each of the four seasons, she’s able to improve the harvest and hone her battle skills alike."
         ),
         arrayOf(
             "The Witcher 3: Wild Hunt",

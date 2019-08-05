@@ -14,4 +14,10 @@
     <string name="alternative_names">Alternative names</string>
     <string name="platforms">Platforms</string>
     <string name="game_mode">Game Mode</string>
+    <string name="menu_about_title">About</string>
+    <string name="about_detail">About</string>
+    <string name="x_close">X</string>
+    <string name="close">Close</string>
+    <string name="about_name">Faishal Risfandi</string>
+    <string name="about_email">meld.mee@gmail.com</string>
 </resources>
